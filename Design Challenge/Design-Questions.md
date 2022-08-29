@@ -28,6 +28,9 @@ They want the application to have a bottom navigation bar with 5 tabs:
 In the health tab, they want 2 sections           
 
 
+
+
+
 One containing 4 cards labelled **Running**, **Cycling**, **Yoga** and **Swimming**. 
 
 
@@ -36,4 +39,8 @@ The second with a label **Health Records** and it contains 3 drop downs:
         * My data       
         * My profile.       
 Pick relevant colors of your choice for the design.
+
+
+- # Section C        
+![Untitled-1F](https://user-images.githubusercontent.com/43356170/187076215-81733b8b-6da7-410a-bfb2-f338d5a9b3a9.jpg)
 

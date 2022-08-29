@@ -10,7 +10,7 @@ Ama Osaba Odoom - Computer Engineering  - 2nd
 Karikari Yaw Wiafe - Computer Engineering  - 3rd       
 
 ## **Design Challenge Winners**:   
-Team David Nintang  - Computer Science - 1st      
+Team Rogue  - Computer Science - 1st      
 Team XD - Computer Science - 2nd      
 Team LXXII - Computer Science - 3rd        
 

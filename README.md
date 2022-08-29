@@ -10,9 +10,9 @@ Ama Osaba Odoom - Computer Engineering  - 2nd
 Karikari Yaw Wiafe - Computer Engineering  - 3rd       
 
 ## **Design Challenge Winners**:   
-David - Computer Science - 1st      
-Sitso - Computer Science - 2nd      
-Kenneth - Computer Science - 3rd        
+Team David Shalom - Computer Science - 1st      
+Team Adelaide Sitsofe Bosso - Computer Science - 2nd      
+Team Kenneth Yaw Obeng - Computer Science - 3rd        
 
 ## **Algorithm Challenge Winners**:
 

@@ -1,5 +1,7 @@
 # codefest-2022
-The 2022 Edition of ACES Codefest & Hackathon. 
+The 2022 Edition of ACES Codefest & Hackathon.      
+
+Join the [#aces-codefest](https://discord.com/channels/1002884394547150859/1013398448055271464) channel to keep the conversation going
 
 ## **Typing Challenge Winners**:       
 

@@ -22,3 +22,9 @@ Team $GROUP_NAME - Computer Engineering -  3rd
 
 
 
+## **#Aces100Challenge Hackerrank Winners** :
+Eli Bansa - 1st   
+Henry Agyeman - 2nd   
+Bernard Wodoame - 3rd   
+
+

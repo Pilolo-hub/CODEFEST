@@ -15,7 +15,9 @@ Team XD - Computer Science - 2nd
 Team LXXII - Computer Science - 3rd        
 
 ## **Algorithm Challenge Winners**:
-
+Team FEDORA - Computer Engineering - 1st    
+Team FAANG - Computer Science - 2nd   
+Team $GROUP_NAME - Computer Engineering -  3rd    
 
 
 

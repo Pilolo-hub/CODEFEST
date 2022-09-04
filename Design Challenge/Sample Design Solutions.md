@@ -1,5 +1,7 @@
 - # Section A
 
+![Design_Q1](https://user-images.githubusercontent.com/52638746/188286988-fe143ef1-273c-471c-afb8-21873e442032.jpeg)
+
 
 - # Section B
 

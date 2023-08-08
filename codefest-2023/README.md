@@ -1,4 +1,4 @@
-# codefest-2022
+# codefest-2023
 
 The 2023 Edition of ACES Codefest & Hackathon.
 

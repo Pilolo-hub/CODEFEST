@@ -26,4 +26,4 @@ Pasco Chewers - Computer Engineering - 1st
 
 TeamX - Computer Engineering - 2nd
 
-Pasco Chewers 4 - Computer Engineering - 3nd
+Pasco Chewers 4 - Computer Engineering - 3rd

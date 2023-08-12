@@ -12,9 +12,9 @@ Join the [#aces-codefest](https://discord.com/channels/1002884394547150859/10133
 
 ## **Design Challenge Winners**:
 
-{Team Name} - Computer Science - 1st  
-{Team Name} - Computer Science - 2nd  
-{Team Name} - Computer Science - 3rd
+Pal Lab - Computer Engineering - 1st  
+Alpha X - Computer Science - 2nd  
+Osman&Etornyo - Computer Engineering - 3rd
 
 ## **Tech Riddles**:
 

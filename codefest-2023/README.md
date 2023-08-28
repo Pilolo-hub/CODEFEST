@@ -14,9 +14,9 @@ Join the [#aces-codefest](https://discord.com/channels/1002884394547150859/10133
 
 ## **Design Challenge Winners**:
 
-Pal Lab - Computer Engineering - 1st
+Alpha X - Computer Science - 1st
 
-Alpha X - Computer Science - 2nd
+Pal Lab - Computer Engineering - 2nd
 
 Osman&Etornyo - Computer Engineering - 3rd
 

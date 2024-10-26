@@ -24,15 +24,14 @@ class MinStack:
         print(self.stack)
         print(self.minStack)
         
-
-newStack = MinStack()
-newStack.push(-2)
-newStack.push(0)
-newStack.push(-3)
-newStack.push(-5)
-newStack.printMe()
-print(newStack.getMin())
-print(newStack.pop())
-print(newStack.getMin())
-newStack.printMe()
-
+if __name__ == "__main__":
+    newStack = MinStack()
+    newStack.push(-2)
+    newStack.push(0)
+    newStack.push(-3)
+    newStack.push(-5)
+    newStack.printMe()
+    print(newStack.getMin())
+    print(newStack.pop())
+    print(newStack.getMin())
+    newStack.printMe()

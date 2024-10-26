@@ -120,7 +120,6 @@ int main (void)
     pop(s);
 
     //printf("\t%i\n", s->arr[s->top]);
-
     printstack(s);
 
     return (0);

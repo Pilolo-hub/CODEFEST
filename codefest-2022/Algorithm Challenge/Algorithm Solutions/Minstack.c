@@ -2,6 +2,9 @@
 #include <stdlib.h>
 
 #define INIT_SIZE 5
+
+typedef int len_t;
+
 /**
 * struct _minstack- stack of integers
 * @capacity: capacity of stack
@@ -13,7 +16,7 @@
 typedef struct _minStack
 {
     int capacity;
-    int size;
+    len_t size;
     int *arr;
     int *top;
     int *minarr;
@@ -33,6 +36,13 @@ minStack *MyStack(void)
 
 void push(minStack *s, int val)
 {
+    if (s->size == s->capacity)
+    {
+        s->arr = (int *)realloc(s->arr, sizeof(int) * s->capacity * 2);
+        s->minarr = (int *)realloc(s->minarr, sizeof(int) * s->capacity * 2);
+        s->capacity *= 2;
+    }
+
     s->arr[s->size] = val;
     if (s->size && val >= s->minarr[s->size - 1])
         s->minarr[s->size] = s->minarr[s->size - 1];
@@ -45,5 +55,18 @@ void push(minStack *s, int val)
 
 int main (void)
 {
+    minStack *s = MyStack();
+    push(s, 89);
+    push(s, 89);
+    push(s, 89);
+    push(s, 89);
+    push(s, 89);
+    push(s, 89);
+    push(s, 89);
+    push(s, 89);
+    push(s, 89);
+
+    printf("\t%i\n", *s->top);
+
     return (0);
 }

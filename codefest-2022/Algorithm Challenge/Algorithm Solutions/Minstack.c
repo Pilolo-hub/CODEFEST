@@ -107,7 +107,6 @@ int main (void)
 {
     minStack *s = MyStack();
     push(s, 7);
-    push(s, 89);
     push(s, 9);
     push(s, 8);
     push(s, 59);

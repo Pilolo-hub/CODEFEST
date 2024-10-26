@@ -27,6 +27,11 @@ typedef struct _minStack
 
 }minStack;
 
+/**
+* MyStack- initializes stack
+* Return: stack pointer
+*
+*/
 minStack *MyStack(void)
 {
     minStack *s = (minStack *)malloc(sizeof(minStack));
@@ -38,6 +43,12 @@ minStack *MyStack(void)
     return (s);
 }
 
+/**
+* push- pushes to top of stack
+* @s: stack pointer
+* @val: value to be pushed
+*
+*/
 void push(minStack *s, int val)
 {
     //Resize array if needed
@@ -57,6 +68,11 @@ void push(minStack *s, int val)
     s->size++;
 }
 
+/**
+* pop- pops the top of stack
+* @s: stack pointer
+*
+*/
 void pop(minStack *s)
 {
     s->size--;
@@ -71,6 +87,11 @@ void pop(minStack *s)
     }
 }
 
+/**
+* printstack- prints stack for testing
+* @s: stack pointer
+*
+*/
 void printstack(minStack *s)
 {
     int top = s->top;

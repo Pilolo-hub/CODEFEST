@@ -1,5 +1,5 @@
 // Using Dynamic arrays to Implement minstack
-// Linked list or static arrays can also be used but there pros and cons with each Data Structure used
+// Linked list or static arrays can also be used but there are pros and cons with each Data Structure used
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -101,8 +101,11 @@ void printstack(minStack *s)
     for (int i = top - 1; i >= 0; i--)
         printf("        |\t%i\t|\t        |\t%i\t|\n", s->arr[i], s->minarr[i]);
 }
-
-
+/**
+* main- let's test
+*
+* Return: 0 on success
+*/
 int main (void)
 {
     minStack *s = MyStack();
